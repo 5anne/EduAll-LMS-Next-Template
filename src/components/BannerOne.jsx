@@ -84,7 +84,7 @@ const BannerOne = () => {
           <div className='col-xl-6'>
             <div className='banner-thumb position-relative'>
               <img
-                src='assets/images/thumbs/banner-img.png'
+                src='https://i.ibb.co.com/vpTmfvN/be-difference-career-life-motivation-inspire-passion-perspective-53876-64932.jpg'
                 alt=''
                 className='banner-thumb__img rounded-12 wow bounceIn'
                 data-wow-duration='3s'
@@ -108,32 +108,32 @@ const BannerOne = () => {
                 <span className='text-main-600'>36k+</span> Enrolled Students
                 <div className='enrolled-students mt-12'>
                   <img
-                    src='assets/images/thumbs/enroll-student-img1.png'
+                    src='https://i.ibb.co.com/6cKNzXmB/young-asian-student-with-notebooks-standing-orange-sweatshirt-looking-camera-posing-blue-1258-168657.jpg'
                     alt=''
                     className='w-48 h-48 rounded-circle object-fit-cover transition-2'
                   />
                   <img
-                    src='assets/images/thumbs/enroll-student-img2.png'
+                    src='https://i.ibb.co.com/k6v9kjQ8/portrait-young-handsome-smiling-businessman-holding-laptop-hands-typing-browsing-web-pages-isolated.jpg'
                     alt=''
                     className='w-48 h-48 rounded-circle object-fit-cover transition-2'
                   />
                   <img
-                    src='assets/images/thumbs/enroll-student-img3.png'
+                    src='https://i.ibb.co.com/ynKR3FHV/good-looking-caucasian-female-with-blonde-straight-hair-wearing-glasses-denim-shirt-smiles-happily-h.jpg'
                     alt=''
                     className='w-48 h-48 rounded-circle object-fit-cover transition-2'
                   />
                   <img
-                    src='assets/images/thumbs/enroll-student-img4.png'
+                    src='https://i.ibb.co.com/v4JQ1GDn/portrait-charming-cheerful-guy-enjoying-free-time-staring-isolated-grey-color-wall-274222-19705.jpg'
                     alt=''
                     className='w-48 h-48 rounded-circle object-fit-cover transition-2'
                   />
                   <img
-                    src='assets/images/thumbs/enroll-student-img5.png'
+                    src='https://i.ibb.co.com/Y6BTF0H/young-beautiful-woman-pink-warm-sweater-natural-look-smiling-portrait-isolated-long-hair-285396-896.jpg'
                     alt=''
                     className='w-48 h-48 rounded-circle object-fit-cover transition-2'
                   />
                   <img
-                    src='assets/images/thumbs/enroll-student-img6.png'
+                    src='https://i.ibb.co.com/zgdmr4B/positive-male-youngster-with-curly-hair-176532-8174.jpg'
                     alt=''
                     className='w-48 h-48 rounded-circle object-fit-cover transition-2'
                   />
