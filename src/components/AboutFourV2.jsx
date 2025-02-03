@@ -5,7 +5,7 @@ import VisibilitySensor from "react-visibility-sensor";
 
 const AboutFourV2 = () => {
   return (
-    <section className='about-four py-120 position-relative z-1 overflow-hidden'>
+    <section className='about-four py-120 position-relative z-1 overflow-hidden bg-main-25'>
       <img
         src='assets/images/shapes/shape2.png'
         alt=''
@@ -17,7 +17,7 @@ const AboutFourV2 = () => {
             <div className='col-xl-6 pe-xl-5'>
               <div className='about-two__thumb position-relative pe-0 me-xl-5'>
                 <img
-                  src='assets/images/thumbs/about-four-img.png'
+                  src='https://i.ibb.co.com/ZRg1zb0F/preteen-boy-uses-laptop-make-video-call-with-his-teacher-his-mother-158595-7528.jpg'
                   className='rounded-16 cover-img'
                   alt=''
                   data-tilt=''
@@ -56,9 +56,10 @@ const AboutFourV2 = () => {
                 >
                   <div className='text-center'>
                     <img
-                      src='assets/images/thumbs/about-four-short-img.png'
+                      src='https://i.ibb.co.com/3mkVkTGK/young-mother-working-from-home-with-daughter-329181-18974.jpg'
                       className='mb-24'
                       alt=''
+                      width={250}
                     />
                     <div className='mt-24'>
                       <img

@@ -5,7 +5,7 @@ import VisibilitySensor from "react-visibility-sensor";
 
 const AboutThreeWhiteBG = () => {
   return (
-    <section className='about-three pt-120 position-relative z-1'>
+    <section className='about-three py-120 position-relative z-1 bg-main-25 overflow-hidden'>
       <div className='position-relative'>
         <div className='container'>
           <div className='row gy-xl-0 gy-5 flex-wrap-reverse align-items-center'>
@@ -14,7 +14,7 @@ const AboutThreeWhiteBG = () => {
                 <div className='row gy-4'>
                   <div className='col-sm-8'>
                     <img
-                      src='assets/images/thumbs/about-three-img1.png'
+                      src='https://i.ibb.co.com/My0v52R7/coworkers-meeting-using-tablet-23-2148395763.jpg'
                       alt=''
                       className='about-three-thumbs__one rounded-16 w-100'
                       data-tilt=''
@@ -48,39 +48,39 @@ const AboutThreeWhiteBG = () => {
                       </span>
                       <div className='enrolled-students style-two mt-12'>
                         <img
-                          src='assets/images/thumbs/enroll-student-img1.png'
+                          src='https://i.ibb.co.com/6cKNzXmB/young-asian-student-with-notebooks-standing-orange-sweatshirt-looking-camera-posing-blue-1258-168657.jpg'
                           alt=''
-                          className='w-32 h-32 rounded-circle object-fit-cove transition-2'
+                          className='w-28 h-28 rounded-circle object-fit-cover transition-2'
                         />
                         <img
-                          src='assets/images/thumbs/enroll-student-img2.png'
+                          src='https://i.ibb.co.com/k6v9kjQ8/portrait-young-handsome-smiling-businessman-holding-laptop-hands-typing-browsing-web-pages-isolated.jpg'
                           alt=''
-                          className='w-32 h-32 rounded-circle object-fit-cove transition-2'
+                          className='w-28 h-28 rounded-circle object-fit-cover transition-2'
                         />
                         <img
-                          src='assets/images/thumbs/enroll-student-img3.png'
+                          src='https://i.ibb.co.com/ynKR3FHV/good-looking-caucasian-female-with-blonde-straight-hair-wearing-glasses-denim-shirt-smiles-happily-h.jpg'
                           alt=''
-                          className='w-32 h-32 rounded-circle object-fit-cove transition-2'
+                          className='w-28 h-28 rounded-circle object-fit-cover transition-2'
                         />
                         <img
-                          src='assets/images/thumbs/enroll-student-img4.png'
+                          src='https://i.ibb.co.com/v4JQ1GDn/portrait-charming-cheerful-guy-enjoying-free-time-staring-isolated-grey-color-wall-274222-19705.jpg'
                           alt=''
-                          className='w-32 h-32 rounded-circle object-fit-cove transition-2'
+                          className='w-28 h-28 rounded-circle object-fit-cover transition-2'
                         />
                         <img
-                          src='assets/images/thumbs/enroll-student-img5.png'
+                          src='https://i.ibb.co.com/Y6BTF0H/young-beautiful-woman-pink-warm-sweater-natural-look-smiling-portrait-isolated-long-hair-285396-896.jpg'
                           alt=''
-                          className='w-32 h-32 rounded-circle object-fit-cove transition-2'
+                          className='w-28 h-28 rounded-circle object-fit-cover transition-2'
                         />
                         <img
-                          src='assets/images/thumbs/enroll-student-img6.png'
+                          src='https://i.ibb.co.com/zgdmr4B/positive-male-youngster-with-curly-hair-176532-8174.jpg'
                           alt=''
-                          className='w-32 h-32 rounded-circle object-fit-cove transition-2'
+                          className='w-28 h-28 rounded-circle object-fit-cover transition-2'
                         />
                       </div>
                     </div>
                     <img
-                      src='assets/images/thumbs/about-three-img2.png'
+                      src='https://i.ibb.co.com/gFJ7zdYn/business-people-holding-paper-mockup-23-2148080015.jpg'
                       alt=''
                       className='about-three-thumbs__two rounded-16 w-100'
                       data-tilt=''
