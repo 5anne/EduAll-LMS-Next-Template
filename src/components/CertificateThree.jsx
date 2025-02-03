@@ -39,7 +39,7 @@ const CertificateThree = () => {
                 <div className='col-xl-6 d-xl-block d-none'>
                   <div className='certificate__thumb' data-aos='fade-up'>
                     <img
-                      src='assets/images/thumbs/newsletter-two-img.png'
+                      src='https://i.ibb.co.com/jksxgbXW/latest-news-subscribe-update-53876-133636.jpg'
                       alt=''
                       data-tilt=''
                       data-tilt-max={8}

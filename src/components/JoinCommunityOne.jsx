@@ -78,7 +78,7 @@ const JoinCommunityOne = () => {
               <div className='col-lg-6'>
                 <div className='join-community__thumb text-end position-relative'>
                   <img
-                    src='assets/images/thumbs/join-community-img.png'
+                    src='https://i.ibb.co.com/PvNjDpQg/admission-open-text-box-social-media-banner-design-358431-120.jpg'
                     alt=''
                     className='wow bounceIn'
                     data-tilt=''

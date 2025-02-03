@@ -149,7 +149,7 @@ const ExploreCourseOne = () => {
                   <div className='course-item__thumb rounded-12 overflow-hidden position-relative'>
                     <Link href='/course-details' className='w-100 h-100'>
                       <img
-                        src='assets/images/thumbs/course-img1.png'
+                        src='https://i.ibb.co.com/VW51S6B9/influencer-marketing-concept-with-businessman-23-2147686293.jpg'
                         alt='Course Image'
                         className='course-item__img rounded-12 cover-img transition-2'
                       />
@@ -208,7 +208,7 @@ const ExploreCourseOne = () => {
                         <div className='flex-align gap-8'>
                           <span className='text-neutral-700 text-2xl d-flex'>
                             <img
-                              src='assets/images/thumbs/user-img1.png'
+                              src='https://i.ibb.co.com/6cKNzXmB/young-asian-student-with-notebooks-standing-orange-sweatshirt-looking-camera-posing-blue-1258-168657.jpg'
                               alt='User Image'
                               className='w-32 h-32 object-fit-cover rounded-circle'
                             />
@@ -242,7 +242,7 @@ const ExploreCourseOne = () => {
                   <div className='course-item__thumb rounded-12 overflow-hidden position-relative'>
                     <Link href='/course-details' className='w-100 h-100'>
                       <img
-                        src='assets/images/thumbs/course-img2.png'
+                        src='https://i.ibb.co.com/CKPHs1bx/programming-language-illustration-24908-61529.jpg'
                         alt='Course Image'
                         className='course-item__img rounded-12 cover-img transition-2'
                       />
@@ -301,7 +301,7 @@ const ExploreCourseOne = () => {
                         <div className='flex-align gap-8'>
                           <span className='text-neutral-700 text-2xl d-flex'>
                             <img
-                              src='assets/images/thumbs/user-img2.png'
+                              src='https://i.ibb.co.com/k6v9kjQ8/portrait-young-handsome-smiling-businessman-holding-laptop-hands-typing-browsing-web-pages-isolated.jpg'
                               alt='User Image'
                               className='w-32 h-32 object-fit-cover rounded-circle'
                             />
@@ -335,7 +335,7 @@ const ExploreCourseOne = () => {
                   <div className='course-item__thumb rounded-12 overflow-hidden position-relative'>
                     <Link href='/course-details' className='w-100 h-100'>
                       <img
-                        src='assets/images/thumbs/course-img3.png'
+                        src='https://i.ibb.co.com/HTg4nxFT/professional-photographer-taking-pictures-young-woman-74855-13348.jpg'
                         alt='Course Image'
                         className='course-item__img rounded-12 cover-img transition-2'
                       />
@@ -394,7 +394,7 @@ const ExploreCourseOne = () => {
                         <div className='flex-align gap-8'>
                           <span className='text-neutral-700 text-2xl d-flex'>
                             <img
-                              src='assets/images/thumbs/user-img3.png'
+                              src='https://i.ibb.co.com/ynKR3FHV/good-looking-caucasian-female-with-blonde-straight-hair-wearing-glasses-denim-shirt-smiles-happily-h.jpg'
                               alt='User Image'
                               className='w-32 h-32 object-fit-cover rounded-circle'
                             />
@@ -428,7 +428,7 @@ const ExploreCourseOne = () => {
                   <div className='course-item__thumb rounded-12 overflow-hidden position-relative'>
                     <Link href='/course-details' className='w-100 h-100'>
                       <img
-                        src='assets/images/thumbs/course-img4.png'
+                        src='https://i.ibb.co.com/8GHN6ng/spanish-language-day-vector-illustration-flat-design-40345-1558.jpg'
                         alt='Course Image'
                         className='course-item__img rounded-12 cover-img transition-2'
                       />
@@ -487,7 +487,7 @@ const ExploreCourseOne = () => {
                         <div className='flex-align gap-8'>
                           <span className='text-neutral-700 text-2xl d-flex'>
                             <img
-                              src='assets/images/thumbs/user-img4.png'
+                              src='https://i.ibb.co.com/v4JQ1GDn/portrait-charming-cheerful-guy-enjoying-free-time-staring-isolated-grey-color-wall-274222-19705.jpg'
                               alt='User Image'
                               className='w-32 h-32 object-fit-cover rounded-circle'
                             />
@@ -521,7 +521,7 @@ const ExploreCourseOne = () => {
                   <div className='course-item__thumb rounded-12 overflow-hidden position-relative'>
                     <Link href='/course-details' className='w-100 h-100'>
                       <img
-                        src='assets/images/thumbs/course-img5.png'
+                        src='https://img.freepik.com/free-vector/volunteers-help-work_24908-58096.jpg?t=st=1738515673~exp=1738519273~hmac=b019b6e2cf41306a11a5cb0116d15d03966b2c2ae4ae16862a1776a5942daca6&w=740'
                         alt='Course Image'
                         className='course-item__img rounded-12 cover-img transition-2'
                       />
@@ -580,7 +580,7 @@ const ExploreCourseOne = () => {
                         <div className='flex-align gap-8'>
                           <span className='text-neutral-700 text-2xl d-flex'>
                             <img
-                              src='assets/images/thumbs/user-img5.png'
+                              src='https://i.ibb.co.com/Y6BTF0H/young-beautiful-woman-pink-warm-sweater-natural-look-smiling-portrait-isolated-long-hair-285396-896.jpg'
                               alt='User Image'
                               className='w-32 h-32 object-fit-cover rounded-circle'
                             />
@@ -614,7 +614,7 @@ const ExploreCourseOne = () => {
                   <div className='course-item__thumb rounded-12 overflow-hidden position-relative'>
                     <Link href='/course-details' className='w-100 h-100'>
                       <img
-                        src='assets/images/thumbs/course-img6.png'
+                        src='https://i.ibb.co.com/Lz0sPjMv/poster-vitamin-food-products-1284-17148.jpg'
                         alt='Course Image'
                         className='course-item__img rounded-12 cover-img transition-2'
                       />
@@ -673,7 +673,7 @@ const ExploreCourseOne = () => {
                         <div className='flex-align gap-8'>
                           <span className='text-neutral-700 text-2xl d-flex'>
                             <img
-                              src='assets/images/thumbs/user-img6.png'
+                              src='https://i.ibb.co.com/zgdmr4B/positive-male-youngster-with-curly-hair-176532-8174.jpg'
                               alt='User Image'
                               className='w-32 h-32 object-fit-cover rounded-circle'
                             />

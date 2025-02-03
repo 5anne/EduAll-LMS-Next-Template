@@ -164,7 +164,7 @@ const EventOne = () => {
           <div className='col-lg-4'>
             <div className='event-video rounded-16 overflow-hidden position-relative h-100 wow bounceIn'>
               <img
-                src='assets/images/thumbs/event-video-img.png'
+                src='https://i.ibb.co.com/ppxxxyL/surprised-young-man-upper-face-with-message-head-23-2148286967.jpg'
                 className='rounded-16 cover-img'
                 alt=''
                 data-tilt=''

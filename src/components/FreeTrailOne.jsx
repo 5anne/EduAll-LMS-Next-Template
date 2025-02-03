@@ -12,7 +12,7 @@ const FreeTrailOne = () => {
             <div className='col-lg-6'>
               <div className='position-relative wow bounceIn'>
                 <img
-                  src='assets/images/thumbs/trail-img.png'
+                  src='https://i.ibb.co.com/LXrM2kyN/virtual-classroom-study-space-23-2149178645.jpg'
                   alt=''
                   data-tilt=''
                   data-tilt-max={8}

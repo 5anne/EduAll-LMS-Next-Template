@@ -109,7 +109,7 @@ const BannerFour = () => {
                 <div className='banner-four-thumb__images d-flex gap-24'>
                   <div className='banner-four-thumb__image wow bounceIn'>
                     <img
-                      src='assets/images/thumbs/banner-four-img1.png'
+                      src='https://i.ibb.co.com/S4V5GR7d/digital-composite-people-using-computer-with-e-learning-information-screen-493343-9313.jpg'
                       alt='Banner Image'
                       className='rounded-bottom-start-72px rounded-top-end-72px'
                       data-tilt=''
@@ -122,7 +122,7 @@ const BannerFour = () => {
                   </div>
                   <div className='banner-four-thumb__image wow bounceIn mt-160'>
                     <img
-                      src='assets/images/thumbs/banner-four-img2.png'
+                      src='https://i.ibb.co.com/Hfw6pR3t/digital-composite-people-using-computer-with-e-learning-information-screen-493343-9310.jpg'
                       alt='Banner Image'
                       className='rounded-bottom-end-72px rounded-bottom-end-72px'
                       data-tilt=''

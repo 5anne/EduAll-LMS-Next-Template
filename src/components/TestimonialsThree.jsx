@@ -63,7 +63,7 @@ const TestimonialsThree = () => {
               <div className='testimonials-three-item bg-white p-24 rounded-12 box-shadow-md'>
                 <div className='w-90 h-90 rounded-circle position-relative mb-4'>
                   <img
-                    src='assets/images/thumbs/testimonials-three-img2.png'
+                    src='https://i.ibb.co.com/6cKNzXmB/young-asian-student-with-notebooks-standing-orange-sweatshirt-looking-camera-posing-blue-1258-168657.jpg'
                     alt=''
                     className='cover-img rounded-circle'
                   />
@@ -98,7 +98,7 @@ const TestimonialsThree = () => {
               <div className='testimonials-three-item bg-white p-24 rounded-12 box-shadow-md'>
                 <div className='w-90 h-90 rounded-circle position-relative mb-4'>
                   <img
-                    src='assets/images/thumbs/testimonials-three-img1.png'
+                    src='https://i.ibb.co.com/k6v9kjQ8/portrait-young-handsome-smiling-businessman-holding-laptop-hands-typing-browsing-web-pages-isolated.jpg'
                     alt=''
                     className='cover-img rounded-circle'
                   />
@@ -133,7 +133,7 @@ const TestimonialsThree = () => {
               <div className='testimonials-three-item bg-white p-24 rounded-12 box-shadow-md'>
                 <div className='w-90 h-90 rounded-circle position-relative mb-4'>
                   <img
-                    src='assets/images/thumbs/testimonials-three-img3.png'
+                    src='https://i.ibb.co.com/v4JQ1GDn/portrait-charming-cheerful-guy-enjoying-free-time-staring-isolated-grey-color-wall-274222-19705.jpg'
                     alt=''
                     className='cover-img rounded-circle'
                   />
@@ -168,7 +168,7 @@ const TestimonialsThree = () => {
               <div className='testimonials-three-item bg-white p-24 rounded-12 box-shadow-md'>
                 <div className='w-90 h-90 rounded-circle position-relative mb-4'>
                   <img
-                    src='assets/images/thumbs/testimonials-three-img3.png'
+                    src='https://i.ibb.co.com/ynKR3FHV/good-looking-caucasian-female-with-blonde-straight-hair-wearing-glasses-denim-shirt-smiles-happily-h.jpg'
                     alt=''
                     className='cover-img rounded-circle'
                   />

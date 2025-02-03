@@ -23,7 +23,7 @@ const VideoOne = () => {
       <div className='video-img position-relative half-bg'>
         <div className='container wow bounceIn'>
           <img
-            src='assets/images/thumbs/video-img.png'
+            src='https://i.ibb.co.com/xS8KHCkF/top-view-back-school-with-wooden-background-23-2148247385.jpg'
             className='rounded-12 cover-img'
             alt=''
             data-tilt=''

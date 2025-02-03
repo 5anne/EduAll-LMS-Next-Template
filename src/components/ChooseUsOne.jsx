@@ -106,41 +106,41 @@ const ChooseUsOne = () => {
                 <span className='text-main-600'>36k+</span> Enrolled Students
                 <div className='enrolled-students mt-12'>
                   <img
-                    src='assets/images/thumbs/enroll-student-img1.png'
+                    src='https://i.ibb.co.com/6cKNzXmB/young-asian-student-with-notebooks-standing-orange-sweatshirt-looking-camera-posing-blue-1258-168657.jpg'
                     alt=''
-                    className='w-48 h-48 rounded-circle object-fit-cover'
+                    className='w-48 h-48 rounded-circle object-fit-cover transition-2'
                   />
                   <img
-                    src='assets/images/thumbs/enroll-student-img2.png'
+                    src='https://i.ibb.co.com/k6v9kjQ8/portrait-young-handsome-smiling-businessman-holding-laptop-hands-typing-browsing-web-pages-isolated.jpg'
                     alt=''
-                    className='w-48 h-48 rounded-circle object-fit-cover'
+                    className='w-48 h-48 rounded-circle object-fit-cover transition-2'
                   />
                   <img
-                    src='assets/images/thumbs/enroll-student-img3.png'
+                    src='https://i.ibb.co.com/ynKR3FHV/good-looking-caucasian-female-with-blonde-straight-hair-wearing-glasses-denim-shirt-smiles-happily-h.jpg'
                     alt=''
-                    className='w-48 h-48 rounded-circle object-fit-cover'
+                    className='w-48 h-48 rounded-circle object-fit-cover transition-2'
                   />
                   <img
-                    src='assets/images/thumbs/enroll-student-img4.png'
+                    src='https://i.ibb.co.com/v4JQ1GDn/portrait-charming-cheerful-guy-enjoying-free-time-staring-isolated-grey-color-wall-274222-19705.jpg'
                     alt=''
-                    className='w-48 h-48 rounded-circle object-fit-cover'
+                    className='w-48 h-48 rounded-circle object-fit-cover transition-2'
                   />
                   <img
-                    src='assets/images/thumbs/enroll-student-img5.png'
+                    src='https://i.ibb.co.com/Y6BTF0H/young-beautiful-woman-pink-warm-sweater-natural-look-smiling-portrait-isolated-long-hair-285396-896.jpg'
                     alt=''
-                    className='w-48 h-48 rounded-circle object-fit-cover'
+                    className='w-48 h-48 rounded-circle object-fit-cover transition-2'
                   />
                   <img
-                    src='assets/images/thumbs/enroll-student-img6.png'
+                    src='https://i.ibb.co.com/zgdmr4B/positive-male-youngster-with-curly-hair-176532-8174.jpg'
                     alt=''
-                    className='w-48 h-48 rounded-circle object-fit-cover'
+                    className='w-48 h-48 rounded-circle object-fit-cover transition-2'
                   />
                 </div>
               </div>
               <div className='text-end' data-aos='zoom-out'>
                 <div className='d-sm-inline-block d-block position-relative'>
                   <img
-                    src='assets/images/thumbs/choose-us-img1.png'
+                    src='https://i.ibb.co.com/twx6gj3M/target-achievement-teamwork-business-concept-107791-16.jpg'
                     alt=''
                     className='choose-us__img rounded-12'
                     data-tilt=''
@@ -156,10 +156,12 @@ const ChooseUsOne = () => {
               </div>
               <div className='animation-video' data-aos='zoom-in'>
                 <img
-                  src='assets/images/thumbs/choose-us-img2.png'
+                  src='https://i.ibb.co.com/rfzpFgwb/graduation-card-male-hands-holding-card-with-graduate-cutout-601748-38929.jpg'
                   alt=''
                   className='border border-white rounded-circle border-3'
                   data-tilt=''
+                  width={280}
+                  height={300}
                 />
                 <span
                   onClick={() => setIsOpen(true)}

@@ -65,28 +65,52 @@ const BrandTwo = () => {
           <div className='container'>
             <Slider {...settings} className='brand-slider'>
               <div className='brand-slider__item px-24'>
-                <img src='assets/images/thumbs/brand-img1.png' alt='' />
+                <img src='https://i.ibb.co.com/TD1v98Gg/college-logo-design-template-vector-illustration-university-college-logo-badges-emblems-signs-stock.jpg' alt='' />
               </div>
               <div className='brand-slider__item px-24'>
-                <img src='assets/images/thumbs/brand-img2.png' alt='' />
+                <img src='https://i.ibb.co.com/PZLcRCYz/college-logo-design-template-vector-illustration-university-college-logo-badges-emblems-signs-stock.jpg' alt='' />
               </div>
               <div className='brand-slider__item px-24'>
-                <img src='assets/images/thumbs/brand-img3.png' alt='' />
+                <img src='https://i.ibb.co.com/qMpHTQdW/education-logo-university-logo-vector-1029473-591904.jpg' alt='' />
               </div>
               <div className='brand-slider__item px-24'>
-                <img src='assets/images/thumbs/brand-img4.png' alt='' />
+                <img src='https://i.ibb.co.com/53jk8TQ/university-education-logo-design-vector-template-1029473-591381.jpg' alt='' />
               </div>
               <div className='brand-slider__item px-24'>
-                <img src='assets/images/thumbs/brand-img5.png' alt='' />
+                <img src='https://i.ibb.co.com/TxxsRdPR/education-logo-university-logo-vector-1029473-591920.jpg' alt='' />
               </div>
               <div className='brand-slider__item px-24'>
-                <img src='assets/images/thumbs/brand-img6.png' alt='' />
+                <img src='https://i.ibb.co.com/4nNqBMd9/school-crest-logo-template-1029469-89230.jpg' alt='' />
               </div>
               <div className='brand-slider__item px-24'>
-                <img src='assets/images/thumbs/brand-img7.png' alt='' />
+                <img src='https://i.ibb.co.com/PZXSCZqp/university-education-logo-design-vector-template-1029473-591388.jpg' alt='' />
               </div>
               <div className='brand-slider__item px-24'>
-                <img src='assets/images/thumbs/brand-img3.png' alt='' />
+                <img src='https://i.ibb.co.com/qMpHTQdW/education-logo-university-logo-vector-1029473-591904.jpg' alt='' />
+              </div>
+              <div className='brand-slider__item px-24'>
+                <img src='https://i.ibb.co.com/TD1v98Gg/college-logo-design-template-vector-illustration-university-college-logo-badges-emblems-signs-stock.jpg' alt='' />
+              </div>
+              <div className='brand-slider__item px-24'>
+                <img src='https://i.ibb.co.com/PZLcRCYz/college-logo-design-template-vector-illustration-university-college-logo-badges-emblems-signs-stock.jpg' alt='' />
+              </div>
+              <div className='brand-slider__item px-24'>
+                <img src='https://i.ibb.co.com/qMpHTQdW/education-logo-university-logo-vector-1029473-591904.jpg' alt='' />
+              </div>
+              <div className='brand-slider__item px-24'>
+                <img src='https://i.ibb.co.com/53jk8TQ/university-education-logo-design-vector-template-1029473-591381.jpg' alt='' />
+              </div>
+              <div className='brand-slider__item px-24'>
+                <img src='https://i.ibb.co.com/TxxsRdPR/education-logo-university-logo-vector-1029473-591920.jpg' alt='' />
+              </div>
+              <div className='brand-slider__item px-24'>
+                <img src='https://i.ibb.co.com/4nNqBMd9/school-crest-logo-template-1029469-89230.jpg' alt='' />
+              </div>
+              <div className='brand-slider__item px-24'>
+                <img src='https://i.ibb.co.com/PZXSCZqp/university-education-logo-design-vector-template-1029473-591388.jpg' alt='' />
+              </div>
+              <div className='brand-slider__item px-24'>
+                <img src='https://i.ibb.co.com/qMpHTQdW/education-logo-university-logo-vector-1029473-591904.jpg' alt='' />
               </div>
             </Slider>
           </div>

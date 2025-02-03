@@ -38,7 +38,7 @@ const AboutOne = () => {
                 <div className='row gy-4'>
                   <div className='col-sm-6'>
                     <img
-                      src='assets/images/thumbs/about-img1.png'
+                      src='https://i.ibb.co.com/fGLY1GGj/silhouette-businessman-looking-through-telescope-route-top-mountain-concept-goal-mission-vision-care.jpg'
                       alt=''
                       className='rounded-12 w-100'
                       data-tilt=''
@@ -84,7 +84,7 @@ const AboutOne = () => {
                       </div>
                     </div>
                     <img
-                      src='assets/images/thumbs/about-img2.png'
+                      src='https://i.ibb.co.com/gbnrfX0m/businesswoman-route-top-mountain-concept-goal-mission-vision-career-path-vector-concept-polygon-dot.jpg'
                       alt=''
                       className='rounded-12 w-100'
                       data-tilt=''
@@ -159,13 +159,13 @@ const AboutOne = () => {
                   </Link>
                   <div className='flex-align gap-20'>
                     <img
-                      src='assets/images/thumbs/ceo-img.png'
+                      src='https://i.ibb.co.com/6cKNzXmB/young-asian-student-with-notebooks-standing-orange-sweatshirt-looking-camera-posing-blue-1258-168657.jpg'
                       alt=''
                       className='w-52 h-52 rounded-circle object-fit-cover flex-shrink-0'
                     />
                     <div className='flex-grow-1'>
                       <span className='mb-4'>
-                        <img src='assets/images/thumbs/signature.png' alt='' />
+                        <img src='https://i.ibb.co.com/FLjxVspJ/abstract-fake-signature-documents-contracts-isolated-white-background-608189-1150.jpg' alt='' width={50} />
                       </span>
                       <span className='text-sm d-block'>CEO Of Company</span>
                     </div>

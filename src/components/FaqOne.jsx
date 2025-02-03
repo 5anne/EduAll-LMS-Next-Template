@@ -6,7 +6,7 @@ const FaqOne = () => {
           <div className='col-lg-6 d-lg-block d-none'>
             <div className='faq-thumb'>
               <img
-                src='assets/images/thumbs/faq-img.png'
+                src='https://i.ibb.co.com/5XCNZQkj/man-woman-looking-magnifying-glass-with-question-it-951778-121349.jpg'
                 alt=''
                 data-tilt=''
                 data-tilt-max={6}

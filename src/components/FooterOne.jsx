@@ -21,7 +21,7 @@ const FooterOne = () => {
                 <div className='footer-item__logo'>
                   <Link href='/'>
                     {" "}
-                    <img src='assets/images/logo/logo.png' alt='' />
+                    <img src='https://i.ibb.co.com/Mys6wBYV/school-11349433.png' alt='' />
                   </Link>
                 </div>
                 <p className='my-32'>

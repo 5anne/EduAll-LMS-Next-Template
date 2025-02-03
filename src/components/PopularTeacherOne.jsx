@@ -71,7 +71,7 @@ const PopularTeacherOne = () => {
             <div className='course-item__thumb rounded-12 bg-main-25 overflow-hidden position-relative'>
               <Link href='/tutor-details' className='w-100 h-100'>
                 <img
-                  src='assets/images/thumbs/instructor-img1.png'
+                  src='https://i.ibb.co.com/6cKNzXmB/young-asian-student-with-notebooks-standing-orange-sweatshirt-looking-camera-posing-blue-1258-168657.jpg'
                   alt='Course Image'
                   className='scale-hover-item__img rounded-12 cover-img transition-2'
                 />
@@ -138,7 +138,7 @@ const PopularTeacherOne = () => {
             <div className='course-item__thumb rounded-12 bg-main-25 overflow-hidden position-relative'>
               <Link href='/tutor-details' className='w-100 h-100'>
                 <img
-                  src='assets/images/thumbs/instructor-img2.png'
+                  src='https://i.ibb.co.com/k6v9kjQ8/portrait-young-handsome-smiling-businessman-holding-laptop-hands-typing-browsing-web-pages-isolated.jpg'
                   alt='Course Image'
                   className='scale-hover-item__img rounded-12 cover-img transition-2'
                 />
@@ -205,7 +205,7 @@ const PopularTeacherOne = () => {
             <div className='course-item__thumb rounded-12 bg-main-25 overflow-hidden position-relative'>
               <Link href='/tutor-details' className='w-100 h-100'>
                 <img
-                  src='assets/images/thumbs/instructor-img3.png'
+                  src='https://i.ibb.co.com/ynKR3FHV/good-looking-caucasian-female-with-blonde-straight-hair-wearing-glasses-denim-shirt-smiles-happily-h.jpg'
                   alt='Course Image'
                   className='scale-hover-item__img rounded-12 cover-img transition-2'
                 />
@@ -272,7 +272,7 @@ const PopularTeacherOne = () => {
             <div className='course-item__thumb rounded-12 bg-main-25 overflow-hidden position-relative'>
               <Link href='/tutor-details' className='w-100 h-100'>
                 <img
-                  src='assets/images/thumbs/instructor-img4.png'
+                  src='https://i.ibb.co.com/v4JQ1GDn/portrait-charming-cheerful-guy-enjoying-free-time-staring-isolated-grey-color-wall-274222-19705.jpg'
                   alt='Course Image'
                   className='scale-hover-item__img rounded-12 cover-img transition-2'
                 />

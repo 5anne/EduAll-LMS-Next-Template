@@ -78,7 +78,7 @@ const BannerThree = () => {
           <div
             className='banner-three__item background-img bg-img linear-overlay position-relative'
             style={{
-              backgroundImage: `url(${"/assets/images/thumbs/banner-three-img1.png"})`,
+              backgroundImage: `url(${"https://i.ibb.co.com/ndqCw31/representation-collective-mind-process-concept-digital-art-style-23-2151657755.jpg"})`,
             }}
           >
             <div className='container'>
@@ -148,7 +148,7 @@ const BannerThree = () => {
           <div
             className='banner-three__item background-img bg-img linear-overlay position-relative'
             style={{
-              backgroundImage: `url(${"/assets/images/thumbs/banner-three-img2.png"})`,
+              backgroundImage: `url(${"https://i.ibb.co.com/pvvrYQG6/girl-with-smiley-faced-box-emotions-style-nonrepresentational-forms-921860-104501.jpg"})`,
             }}
           >
             <div className='container'>
@@ -219,7 +219,7 @@ const BannerThree = () => {
           <div
             className='banner-three__item background-img bg-img linear-overlay position-relative'
             style={{
-              backgroundImage: `url(${"/assets/images/thumbs/banner-three-img3.png"})`,
+              backgroundImage: `url(${"https://i.ibb.co.com/r2w3F2Xp/group-people-holding-placard-mockup-charity-23-2148069562.jpg"})`,
             }}
           >
             <div className='container'>

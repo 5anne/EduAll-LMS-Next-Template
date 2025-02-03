@@ -29,7 +29,7 @@ const FacultyOne = () => {
               <div className='course-item__thumb rounded-12 overflow-hidden position-relative'>
                 <Link href='/course-details' className='w-100 h-100'>
                   <img
-                    src='assets/images/thumbs/faculty-img1.png'
+                    src='https://i.ibb.co.com/M5DckDj4/laptop-with-mockup-screen-clean-tidy-workspace-education-theme-23-2148228196.jpg'
                     alt='Course Image'
                     className='scale-hover-item__img rounded-12 cover-img transition-2'
                   />
@@ -115,7 +115,7 @@ const FacultyOne = () => {
               <div className='course-item__thumb rounded-12 overflow-hidden position-relative'>
                 <Link href='/course-details' className='w-100 h-100'>
                   <img
-                    src='assets/images/thumbs/faculty-img2.png'
+                    src='https://i.ibb.co.com/M5DckDj4/laptop-with-mockup-screen-clean-tidy-workspace-education-theme-23-2148228196.jpg'
                     alt='Course Image'
                     className='scale-hover-item__img rounded-12 cover-img transition-2'
                   />
@@ -200,7 +200,7 @@ const FacultyOne = () => {
               <div className='course-item__thumb rounded-12 overflow-hidden position-relative'>
                 <Link href='/course-details' className='w-100 h-100'>
                   <img
-                    src='assets/images/thumbs/faculty-img3.png'
+                    src='https://i.ibb.co.com/M5DckDj4/laptop-with-mockup-screen-clean-tidy-workspace-education-theme-23-2148228196.jpg'
                     alt='Course Image'
                     className='scale-hover-item__img rounded-12 cover-img transition-2'
                   />
@@ -285,7 +285,7 @@ const FacultyOne = () => {
               <div className='course-item__thumb rounded-12 overflow-hidden position-relative'>
                 <Link href='/course-details' className='w-100 h-100'>
                   <img
-                    src='assets/images/thumbs/faculty-img4.png'
+                    src='https://i.ibb.co.com/M5DckDj4/laptop-with-mockup-screen-clean-tidy-workspace-education-theme-23-2148228196.jpg'
                     alt='Course Image'
                     className='scale-hover-item__img rounded-12 cover-img transition-2'
                   />
@@ -370,7 +370,7 @@ const FacultyOne = () => {
               <div className='course-item__thumb rounded-12 overflow-hidden position-relative'>
                 <Link href='/course-details' className='w-100 h-100'>
                   <img
-                    src='assets/images/thumbs/faculty-img5.png'
+                    src='https://i.ibb.co.com/M5DckDj4/laptop-with-mockup-screen-clean-tidy-workspace-education-theme-23-2148228196.jpg'
                     alt='Course Image'
                     className='scale-hover-item__img rounded-12 cover-img transition-2'
                   />
@@ -455,7 +455,7 @@ const FacultyOne = () => {
               <div className='course-item__thumb rounded-12 overflow-hidden position-relative'>
                 <Link href='/course-details' className='w-100 h-100'>
                   <img
-                    src='assets/images/thumbs/faculty-img6.png'
+                    src='https://i.ibb.co.com/M5DckDj4/laptop-with-mockup-screen-clean-tidy-workspace-education-theme-23-2148228196.jpg'
                     alt='Course Image'
                     className='scale-hover-item__img rounded-12 cover-img transition-2'
                   />

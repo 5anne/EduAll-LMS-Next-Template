@@ -79,7 +79,7 @@ const TestimonialsTwo = () => {
             <div className='flex-between gap-24 flex-wrap pt-28 mt-28 border-top border-neutral-50 mt-28 border-dashed border-0'>
               <div className='flex-align gap-24 '>
                 <img
-                  src='assets/images/thumbs/testi-img1.png'
+                  src='https://i.ibb.co.com/6cKNzXmB/young-asian-student-with-notebooks-standing-orange-sweatshirt-looking-camera-posing-blue-1258-168657.jpg'
                   alt=''
                   className='w-60 h-60 object-fit-cover rounded-circle'
                 />
@@ -123,7 +123,7 @@ const TestimonialsTwo = () => {
             <div className='flex-between gap-24 flex-wrap pt-28 mt-28 border-top border-neutral-50 mt-28 border-dashed border-0'>
               <div className='flex-align gap-24 '>
                 <img
-                  src='assets/images/thumbs/testi-img2.png'
+                  src='https://i.ibb.co.com/k6v9kjQ8/portrait-young-handsome-smiling-businessman-holding-laptop-hands-typing-browsing-web-pages-isolated.jpg'
                   alt=''
                   className='w-60 h-60 object-fit-cover rounded-circle'
                 />
@@ -167,7 +167,7 @@ const TestimonialsTwo = () => {
             <div className='flex-between gap-24 flex-wrap pt-28 mt-28 border-top border-neutral-50 mt-28 border-dashed border-0'>
               <div className='flex-align gap-24 '>
                 <img
-                  src='assets/images/thumbs/user-two-img3.png'
+                  src='https://i.ibb.co.com/ynKR3FHV/good-looking-caucasian-female-with-blonde-straight-hair-wearing-glasses-denim-shirt-smiles-happily-h.jpg'
                   alt=''
                   className='w-60 h-60 object-fit-cover rounded-circle'
                 />

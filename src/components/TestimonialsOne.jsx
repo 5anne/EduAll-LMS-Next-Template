@@ -72,7 +72,7 @@ const TestimonialsOne = () => {
                 data-tilt-perspective={5000}
                 data-tilt-full-page-listening=''
               >
-                <img src='assets/images/thumbs/testimonial-img1.png' alt='' />
+                <img src='https://i.ibb.co.com/fVwLT8pq/beautiful-graduate-holding-certificate-class-175634-42034.jpg' alt='' />
               </div>
               <div
                 className='testimonials__thumbs wow bounceIn'
@@ -82,7 +82,7 @@ const TestimonialsOne = () => {
                 data-tilt-perspective={5000}
                 data-tilt-full-page-listening=''
               >
-                <img src='assets/images/thumbs/testimonial-img2.png' alt='' />
+                <img src='https://i.ibb.co.com/nqpjKFdm/smiling-student-graduate-robe-against-green-chalkboard-1134-71626.jpg' alt='' />
               </div>
             </div>
           </div>

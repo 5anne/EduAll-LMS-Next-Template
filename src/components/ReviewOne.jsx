@@ -70,7 +70,7 @@ const ReviewOne = () => {
                   <div className='rounded-12 p-32 text-center transition-2 item-hover bg-main-25 hover-bg-main-600'>
                     <span className='w-120 h-120 rounded-circle overflow-hidden d-inline-flex'>
                       <img
-                        src='assets/images/thumbs/testimonials-three-img1.png'
+                        src='https://i.ibb.co.com/v4JQ1GDn/portrait-charming-cheerful-guy-enjoying-free-time-staring-isolated-grey-color-wall-274222-19705.jpg'
                         alt=''
                         className='cover-img'
                       />
@@ -107,7 +107,7 @@ const ReviewOne = () => {
                   <div className='rounded-12 p-32 text-center transition-2 item-hover bg-main-two-25 hover-bg-main-two-600'>
                     <span className='w-120 h-120 rounded-circle overflow-hidden d-inline-flex'>
                       <img
-                        src='assets/images/thumbs/testimonials-three-img4.png'
+                        src='https://i.ibb.co.com/k6v9kjQ8/portrait-young-handsome-smiling-businessman-holding-laptop-hands-typing-browsing-web-pages-isolated.jpg'
                         alt=''
                         className='cover-img'
                       />
@@ -144,7 +144,7 @@ const ReviewOne = () => {
                   <div className='rounded-12 p-32 text-center transition-2 item-hover bg-main-25 hover-bg-main-600'>
                     <span className='w-120 h-120 rounded-circle overflow-hidden d-inline-flex'>
                       <img
-                        src='assets/images/thumbs/testimonials-three-img3.png'
+                        src='https://i.ibb.co.com/6cKNzXmB/young-asian-student-with-notebooks-standing-orange-sweatshirt-looking-camera-posing-blue-1258-168657.jpg'
                         alt=''
                         className='cover-img'
                       />
@@ -194,7 +194,7 @@ const ReviewOne = () => {
                   <div className='rounded-12 p-32 text-center transition-2 item-hover bg-main-25 hover-bg-main-600'>
                     <span className='w-120 h-120 rounded-circle overflow-hidden d-inline-flex'>
                       <img
-                        src='assets/images/thumbs/testimonials-three-img2.png'
+                        src='https://i.ibb.co.com/ynKR3FHV/good-looking-caucasian-female-with-blonde-straight-hair-wearing-glasses-denim-shirt-smiles-happily-h.jpg'
                         alt=''
                         className='cover-img'
                       />
@@ -231,7 +231,7 @@ const ReviewOne = () => {
                   <div className='rounded-12 p-32 text-center transition-2 item-hover bg-main-two-25 hover-bg-main-two-600'>
                     <span className='w-120 h-120 rounded-circle overflow-hidden d-inline-flex'>
                       <img
-                        src='assets/images/thumbs/testimonials-three-img3.png'
+                        src='https://i.ibb.co.com/Y6BTF0H/young-beautiful-woman-pink-warm-sweater-natural-look-smiling-portrait-isolated-long-hair-285396-896.jpg'
                         alt=''
                         className='cover-img'
                       />
@@ -268,7 +268,7 @@ const ReviewOne = () => {
                   <div className='rounded-12 p-32 text-center transition-2 item-hover bg-main-25 hover-bg-main-600'>
                     <span className='w-120 h-120 rounded-circle overflow-hidden d-inline-flex'>
                       <img
-                        src='assets/images/thumbs/testimonials-three-img3.png'
+                        src='https://i.ibb.co.com/zgdmr4B/positive-male-youngster-with-curly-hair-176532-8174.jpg'
                         alt=''
                         className='cover-img'
                       />

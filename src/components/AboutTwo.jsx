@@ -9,7 +9,7 @@ const AboutTwo = () => {
             <div className='col-xl-6 pe-xl-5'>
               <div className='about-two__thumb position-relative'>
                 <img
-                  src='assets/images/thumbs/about-two-img.png'
+                  src='https://i.ibb.co.com/WNN2zp1y/girl-sits-chair-with-cactus-background-503750-11490.jpg'
                   className='rounded-16 cover-img  wow bounceIn'
                   alt=''
                   data-tilt=''
