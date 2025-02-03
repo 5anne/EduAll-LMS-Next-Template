@@ -29,7 +29,7 @@ const BlogListInner = () => {
               <div className='course-item__thumb rounded-12 overflow-hidden position-relative max-w-274  w-50'>
                 <Link href='/blog-details' className='w-100 h-100'>
                   <img
-                    src='assets/images/thumbs/blog-two-img1.png'
+                    src='https://i.ibb.co.com/zTTxSVgB/group-people-sit-bench-with-world-map-them-1253416-3100.jpg'
                     alt='Course Image'
                     className='scale-hover-item__img rounded-12 cover-img transition-2'
                   />
@@ -78,7 +78,7 @@ const BlogListInner = () => {
               <div className='course-item__thumb rounded-12 overflow-hidden position-relative max-w-274  w-50'>
                 <Link href='/blog-details' className='w-100 h-100'>
                   <img
-                    src='assets/images/thumbs/blog-two-img2.png'
+                    src='https://i.ibb.co.com/zTTxSVgB/group-people-sit-bench-with-world-map-them-1253416-3100.jpg'
                     alt='Course Image'
                     className='scale-hover-item__img rounded-12 cover-img transition-2'
                   />
@@ -127,7 +127,7 @@ const BlogListInner = () => {
               <div className='course-item__thumb rounded-12 overflow-hidden position-relative max-w-274  w-50'>
                 <Link href='/blog-details' className='w-100 h-100'>
                   <img
-                    src='assets/images/thumbs/blog-two-img3.png'
+                    src='https://i.ibb.co.com/zTTxSVgB/group-people-sit-bench-with-world-map-them-1253416-3100.jpg'
                     alt='Course Image'
                     className='scale-hover-item__img rounded-12 cover-img transition-2'
                   />
@@ -176,7 +176,7 @@ const BlogListInner = () => {
               <div className='course-item__thumb rounded-12 overflow-hidden position-relative max-w-274  w-50'>
                 <Link href='/blog-details' className='w-100 h-100'>
                   <img
-                    src='assets/images/thumbs/blog-two-img4.png'
+                    src='https://i.ibb.co.com/zTTxSVgB/group-people-sit-bench-with-world-map-them-1253416-3100.jpg'
                     alt='Course Image'
                     className='scale-hover-item__img rounded-12 cover-img transition-2'
                   />
@@ -225,7 +225,7 @@ const BlogListInner = () => {
               <div className='course-item__thumb rounded-12 overflow-hidden position-relative max-w-274  w-50'>
                 <Link href='/blog-details' className='w-100 h-100'>
                   <img
-                    src='assets/images/thumbs/blog-two-img5.png'
+                    src='https://i.ibb.co.com/zTTxSVgB/group-people-sit-bench-with-world-map-them-1253416-3100.jpg'
                     alt='Course Image'
                     className='scale-hover-item__img rounded-12 cover-img transition-2'
                   />
@@ -274,7 +274,7 @@ const BlogListInner = () => {
               <div className='course-item__thumb rounded-12 overflow-hidden position-relative max-w-274  w-50'>
                 <Link href='/blog-details' className='w-100 h-100'>
                   <img
-                    src='assets/images/thumbs/blog-two-img6.png'
+                    src='https://i.ibb.co.com/zTTxSVgB/group-people-sit-bench-with-world-map-them-1253416-3100.jpg'
                     alt='Course Image'
                     className='scale-hover-item__img rounded-12 cover-img transition-2'
                   />
@@ -323,7 +323,7 @@ const BlogListInner = () => {
               <div className='course-item__thumb rounded-12 overflow-hidden position-relative max-w-274  w-50'>
                 <Link href='/blog-details' className='w-100 h-100'>
                   <img
-                    src='assets/images/thumbs/blog-two-img7.png'
+                    src='https://i.ibb.co.com/zTTxSVgB/group-people-sit-bench-with-world-map-them-1253416-3100.jpg'
                     alt='Course Image'
                     className='scale-hover-item__img rounded-12 cover-img transition-2'
                   />
@@ -372,7 +372,7 @@ const BlogListInner = () => {
               <div className='course-item__thumb rounded-12 overflow-hidden position-relative max-w-274  w-50'>
                 <Link href='/blog-details' className='w-100 h-100'>
                   <img
-                    src='assets/images/thumbs/blog-two-img8.png'
+                    src='https://i.ibb.co.com/zTTxSVgB/group-people-sit-bench-with-world-map-them-1253416-3100.jpg'
                     alt='Course Image'
                     className='scale-hover-item__img rounded-12 cover-img transition-2'
                   />
@@ -421,7 +421,7 @@ const BlogListInner = () => {
               <div className='course-item__thumb rounded-12 overflow-hidden position-relative max-w-274  w-50'>
                 <Link href='/blog-details' className='w-100 h-100'>
                   <img
-                    src='assets/images/thumbs/blog-two-img9.png'
+                    src='https://i.ibb.co.com/zTTxSVgB/group-people-sit-bench-with-world-map-them-1253416-3100.jpg'
                     alt='Course Image'
                     className='scale-hover-item__img rounded-12 cover-img transition-2'
                   />
@@ -470,7 +470,7 @@ const BlogListInner = () => {
               <div className='course-item__thumb rounded-12 overflow-hidden position-relative max-w-274  w-50'>
                 <Link href='/blog-details' className='w-100 h-100'>
                   <img
-                    src='assets/images/thumbs/blog-two-img3.png'
+                    src='https://i.ibb.co.com/zTTxSVgB/group-people-sit-bench-with-world-map-them-1253416-3100.jpg'
                     alt='Course Image'
                     className='scale-hover-item__img rounded-12 cover-img transition-2'
                   />

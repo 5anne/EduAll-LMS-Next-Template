@@ -28,7 +28,7 @@ const BlogDetailsInner = () => {
             <div className='bg-main-25 rounded-16 p-12 border border-neutral-30'>
               <div className='rounded-12 overflow-hidden position-relative'>
                 <img
-                  src='assets/images/thumbs/blog-details-img.png'
+                  src='https://i.ibb.co.com/C30cmXK0/learning-education-ideas-insight-intelligence-study-concept-53876-120116.jpg'
                   alt='Course Image'
                   className='rounded-12 cover-img transition-2'
                 />
@@ -199,8 +199,146 @@ const BlogDetailsInner = () => {
             </div>
             {/* Review Start */}
             <div className='border border-neutral-30 rounded-12 bg-main-25 p-32 mt-24'>
+              <h5 className='mb-0'>Average Reviews</h5>
+              <span className='d-block border border-neutral-30 my-32 border-dashed' />
+              <div className='d-flex flex-sm-row flex-column gap-36'>
+                <div className='rounded-16 px-40 py-24 flex-center flex-column flex-shrink-0 text-center bg-main-600 text-white'>
+                  <h2 className='mb-8 text-white'>4.8</h2>
+                  <div className='flex-center gap-4'>
+                    <span className='text-15 fw-medium text-white d-flex'>
+                      <i className='ph-fill ph-star' />
+                    </span>
+                    <span className='text-15 fw-medium text-white d-flex'>
+                      <i className='ph-fill ph-star' />
+                    </span>
+                    <span className='text-15 fw-medium text-white d-flex'>
+                      <i className='ph-fill ph-star' />
+                    </span>
+                    <span className='text-15 fw-medium text-white d-flex'>
+                      <i className='ph-fill ph-star' />
+                    </span>
+                    <span className='text-15 fw-medium text-white d-flex'>
+                      <i className='ph-fill ph-star-half' />
+                    </span>
+                  </div>
+                  <span className='mt-8 text-gray-500'>26 Rating</span>
+                </div>
+                <div className='flex-grow-1'>
+                  <div className='flex-align gap-20 mb-8'>
+                    <div className='flex-align gap-8'>
+                      <span className='text-lg fw-medium text-warning-600 d-flex'>
+                        <i className='ph-fill ph-star' />
+                      </span>
+                      <span className='text-gray-900 flex-shrink-0'>5</span>
+                    </div>
+                    <div
+                      className='progress w-100 bg-white rounded-pill h-12'
+                      role='progressbar'
+                      aria-label='Basic example'
+                      aria-valuenow={90}
+                      aria-valuemin={0}
+                      aria-valuemax={100}
+                    >
+                      <div
+                        className='progress-bar bg-main-600 rounded-pill'
+                        style={{ width: "90%" }}
+                      />
+                    </div>
+                    <span className='text-gray-900 flex-shrink-0'>90%</span>
+                  </div>
+                  <div className='flex-align gap-20 mb-8'>
+                    <div className='flex-align gap-8'>
+                      <span className='text-lg fw-medium text-warning-600 d-flex'>
+                        <i className='ph-fill ph-star' />
+                      </span>
+                      <span className='text-gray-900 flex-shrink-0'>5</span>
+                    </div>
+                    <div
+                      className='progress w-100 bg-white rounded-pill h-12'
+                      role='progressbar'
+                      aria-label='Basic example'
+                      aria-valuenow={75}
+                      aria-valuemin={0}
+                      aria-valuemax={100}
+                    >
+                      <div
+                        className='progress-bar bg-main-600 rounded-pill'
+                        style={{ width: "75%" }}
+                      />
+                    </div>
+                    <span className='text-gray-900 flex-shrink-0'>75%</span>
+                  </div>
+                  <div className='flex-align gap-20 mb-8'>
+                    <div className='flex-align gap-8'>
+                      <span className='text-lg fw-medium text-warning-600 d-flex'>
+                        <i className='ph-fill ph-star' />
+                      </span>
+                      <span className='text-gray-900 flex-shrink-0'>5</span>
+                    </div>
+                    <div
+                      className='progress w-100 bg-white rounded-pill h-12'
+                      role='progressbar'
+                      aria-label='Basic example'
+                      aria-valuenow={67}
+                      aria-valuemin={0}
+                      aria-valuemax={100}
+                    >
+                      <div
+                        className='progress-bar bg-main-600 rounded-pill'
+                        style={{ width: "67%" }}
+                      />
+                    </div>
+                    <span className='text-gray-900 flex-shrink-0'>67%</span>
+                  </div>
+                  <div className='flex-align gap-20 mb-8'>
+                    <div className='flex-align gap-8'>
+                      <span className='text-lg fw-medium text-warning-600 d-flex'>
+                        <i className='ph-fill ph-star' />
+                      </span>
+                      <span className='text-gray-900 flex-shrink-0'>5</span>
+                    </div>
+                    <div
+                      className='progress w-100 bg-white rounded-pill h-12'
+                      role='progressbar'
+                      aria-label='Basic example'
+                      aria-valuenow={44}
+                      aria-valuemin={0}
+                      aria-valuemax={100}
+                    >
+                      <div
+                        className='progress-bar bg-main-600 rounded-pill'
+                        style={{ width: "44%" }}
+                      />
+                    </div>
+                    <span className='text-gray-900 flex-shrink-0'>44%</span>
+                  </div>
+                  <div className='flex-align gap-20'>
+                    <div className='flex-align gap-8'>
+                      <span className='text-lg fw-medium text-warning-600 d-flex'>
+                        <i className='ph-fill ph-star' />
+                      </span>
+                      <span className='text-gray-900 flex-shrink-0'>5</span>
+                    </div>
+                    <div
+                      className='progress w-100 bg-white rounded-pill h-12'
+                      role='progressbar'
+                      aria-label='Basic example'
+                      aria-valuenow={21}
+                      aria-valuemin={0}
+                      aria-valuemax={100}
+                    >
+                      <div
+                        className='progress-bar bg-main-600 rounded-pill'
+                        style={{ width: "21%" }}
+                      />
+                    </div>
+                    <span className='text-gray-900 flex-shrink-0'>21%</span>
+                  </div>
+                </div>
+              </div>
+              <span className='d-block border border-neutral-30 my-32 border-dashed' />
               <div className='flex-between gap-16 flex-wrap mb-24'>
-                <h4 className='mb-0'>All Comments</h4>
+                <h6 className='mb-0'>All Reviews</h6>
                 <div className='flex-align gap-16'>
                   <div className='flex-align gap-8'>
                     <span className='text-neutral-500 flex-shrink-0'>
@@ -241,7 +379,7 @@ const BlogDetailsInner = () => {
                 <span className='d-block border border-neutral-30 my-24 border-dashed' />
                 <div className='flex-align gap-24'>
                   <img
-                    src='assets/images/thumbs/reviewer-img1.png'
+                    src='https://i.ibb.co.com/zgdmr4B/positive-male-youngster-with-curly-hair-176532-8174.jpg'
                     alt=''
                     className='w-60 h-60 rounded-circle cover-img'
                   />
@@ -273,7 +411,7 @@ const BlogDetailsInner = () => {
                 </div>
                 <div className='flex-align gap-20 mt-24'>
                   <img
-                    src='assets/images/thumbs/reviewer-img2.png'
+                    src='https://i.ibb.co.com/Y6BTF0H/young-beautiful-woman-pink-warm-sweater-natural-look-smiling-portrait-isolated-long-hair-285396-896.jpg'
                     alt=''
                     className='w-60 h-60 rounded-circle cover-img'
                   />
@@ -312,7 +450,7 @@ const BlogDetailsInner = () => {
                 <span className='d-block border border-neutral-30 my-24 border-dashed' />
                 <div className='flex-align gap-24'>
                   <img
-                    src='assets/images/thumbs/reviewer-img2.png'
+                    src='https://i.ibb.co.com/v4JQ1GDn/portrait-charming-cheerful-guy-enjoying-free-time-staring-isolated-grey-color-wall-274222-19705.jpg'
                     alt=''
                     className='w-60 h-60 rounded-circle cover-img'
                   />
@@ -371,7 +509,7 @@ const BlogDetailsInner = () => {
                 <span className='d-block border border-neutral-30 my-24 border-dashed' />
                 <div className='flex-align gap-24'>
                   <img
-                    src='assets/images/thumbs/reviewer-img3.png'
+                    src='https://i.ibb.co.com/ynKR3FHV/good-looking-caucasian-female-with-blonde-straight-hair-wearing-glasses-denim-shirt-smiles-happily-h.jpg'
                     alt=''
                     className='w-60 h-60 rounded-circle cover-img'
                   />
@@ -407,7 +545,7 @@ const BlogDetailsInner = () => {
                 type='button'
                 className='btn btn-main rounded-pill flex-center gap-8 mt-40'
               >
-                See All Comments
+                See All Reviews
                 <i className='ph-bold ph-arrow-up-right d-flex text-lg' />
               </button>
             </div>
@@ -661,7 +799,7 @@ const BlogDetailsInner = () => {
               <div className='flex-align gap-16'>
                 <Link href='/blog' className='flex-shrink-0'>
                   <img
-                    src='assets/images/thumbs/blog-two-img1.png'
+                    src='https://i.ibb.co.com/4wJtD9d3/e-learning-student-university-concept-31965-2069.jpg'
                     alt=''
                     className='w-80 h-80 rounded-8 object-fit-cover'
                   />
@@ -682,7 +820,7 @@ const BlogDetailsInner = () => {
               <div className='flex-align gap-16'>
                 <Link href='/blog' className='flex-shrink-0'>
                   <img
-                    src='assets/images/thumbs/blog-two-img2.png'
+                    src='https://i.ibb.co.com/4wJtD9d3/e-learning-student-university-concept-31965-2069.jpg'
                     alt=''
                     className='w-80 h-80 rounded-8 object-fit-cover'
                   />
@@ -703,7 +841,7 @@ const BlogDetailsInner = () => {
               <div className='flex-align gap-16'>
                 <Link href='/blog' className='flex-shrink-0'>
                   <img
-                    src='assets/images/thumbs/blog-two-img3.png'
+                    src='https://i.ibb.co.com/4wJtD9d3/e-learning-student-university-concept-31965-2069.jpg'
                     alt=''
                     className='w-80 h-80 rounded-8 object-fit-cover'
                   />
@@ -724,7 +862,7 @@ const BlogDetailsInner = () => {
               <div className='flex-align gap-16'>
                 <Link href='/blog' className='flex-shrink-0'>
                   <img
-                    src='assets/images/thumbs/blog-two-img4.png'
+                    src='https://i.ibb.co.com/4wJtD9d3/e-learning-student-university-concept-31965-2069.jpg'
                     alt=''
                     className='w-80 h-80 rounded-8 object-fit-cover'
                   />
@@ -745,7 +883,7 @@ const BlogDetailsInner = () => {
               <div className='flex-align gap-16'>
                 <Link href='/blog' className='flex-shrink-0'>
                   <img
-                    src='assets/images/thumbs/blog-two-img5.png'
+                    src='https://i.ibb.co.com/4wJtD9d3/e-learning-student-university-concept-31965-2069.jpg'
                     alt=''
                     className='w-80 h-80 rounded-8 object-fit-cover'
                   />

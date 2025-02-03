@@ -13,7 +13,7 @@ const LessonDetails = () => {
                 className='player'
                 playsInline
                 controls
-                poster='/assets/images/thumbs/course-details-img.png'
+                poster='https://i.ibb.co.com/1jVFShZ/people-working-with-documents-laptop-23-2147656651.jpg'
               >
                 <source
                   src='https://cdn.plyr.io/static/demo/View_From_A_Blue_Moon_Trailer-720p.mp4'
@@ -148,7 +148,7 @@ const LessonDetails = () => {
             </div>
             {/* Details Content End */}
             {/* Review Start */}
-            <div className='border border-neutral-30 rounded-12 bg-white p-32 mt-24'>
+            <div className='border border-neutral-30 rounded-12 bg-main-25 p-32 mt-24'>
               <h5 className='mb-0'>Average Reviews</h5>
               <span className='d-block border border-neutral-30 my-32 border-dashed' />
               <div className='d-flex flex-sm-row flex-column gap-36'>
@@ -303,7 +303,7 @@ const LessonDetails = () => {
                 </div>
               </div>
               {/* Review Item */}
-              <div className='border border-neutral-30 rounded-12 bg-main-25 p-32'>
+              <div className='border border-neutral-30 rounded-12 bg-white p-32'>
                 <div className='flex-align gap-8 mb-16'>
                   <span className='text-xl fw-medium text-warning-600 d-flex'>
                     <i className='ph-fill ph-star' />
@@ -329,7 +329,7 @@ const LessonDetails = () => {
                 <span className='d-block border border-neutral-30 my-24 border-dashed' />
                 <div className='flex-align gap-24'>
                   <img
-                    src='assets/images/thumbs/reviewer-img1.png'
+                    src='https://i.ibb.co.com/zgdmr4B/positive-male-youngster-with-curly-hair-176532-8174.jpg'
                     alt=''
                     className='w-60 h-60 rounded-circle cover-img'
                   />
@@ -361,20 +361,20 @@ const LessonDetails = () => {
                 </div>
                 <div className='flex-align gap-20 mt-24'>
                   <img
-                    src='assets/images/thumbs/reviewer-img2.png'
+                    src='https://i.ibb.co.com/Y6BTF0H/young-beautiful-woman-pink-warm-sweater-natural-look-smiling-portrait-isolated-long-hair-285396-896.jpg'
                     alt=''
                     className='w-60 h-60 rounded-circle cover-img'
                   />
                   <input
                     type='text'
-                    className='common-input rounded-pill bg-white border-neutral-30 py-16'
+                    className='common-input rounded-pill bg-main-25 border-neutral-30 py-16'
                     placeholder='Join the discussion...'
                   />
                 </div>
               </div>
               {/* Review Item */}
               {/* Review Item */}
-              <div className='border border-neutral-30 rounded-12 bg-main-25 p-32 mt-24'>
+              <div className='border border-neutral-30 rounded-12 bg-white p-32 mt-24'>
                 <div className='flex-align gap-8 mb-16'>
                   <span className='text-xl fw-medium text-warning-600 d-flex'>
                     <i className='ph-fill ph-star' />
@@ -400,7 +400,7 @@ const LessonDetails = () => {
                 <span className='d-block border border-neutral-30 my-24 border-dashed' />
                 <div className='flex-align gap-24'>
                   <img
-                    src='assets/images/thumbs/reviewer-img2.png'
+                    src='https://i.ibb.co.com/v4JQ1GDn/portrait-charming-cheerful-guy-enjoying-free-time-staring-isolated-grey-color-wall-274222-19705.jpg'
                     alt=''
                     className='w-60 h-60 rounded-circle cover-img'
                   />
@@ -433,7 +433,7 @@ const LessonDetails = () => {
               </div>
               {/* Review Item */}
               {/* Review Item */}
-              <div className='border border-neutral-30 rounded-12 bg-main-25 p-32 mt-24'>
+              <div className='border border-neutral-30 rounded-12 bg-white p-32 mt-24'>
                 <div className='flex-align gap-8 mb-16'>
                   <span className='text-xl fw-medium text-warning-600 d-flex'>
                     <i className='ph-fill ph-star' />
@@ -459,7 +459,7 @@ const LessonDetails = () => {
                 <span className='d-block border border-neutral-30 my-24 border-dashed' />
                 <div className='flex-align gap-24'>
                   <img
-                    src='assets/images/thumbs/reviewer-img3.png'
+                    src='https://i.ibb.co.com/ynKR3FHV/good-looking-caucasian-female-with-blonde-straight-hair-wearing-glasses-denim-shirt-smiles-happily-h.jpg'
                     alt=''
                     className='w-60 h-60 rounded-circle cover-img'
                   />
@@ -762,7 +762,7 @@ const LessonDetails = () => {
                         </Link>
                         <div className='flex-between gap-8 mt-24'>
                           <Link
-                href='/lesson-details'
+                            href='/lesson-details'
                             className='flex-align gap-8 text-main-600 hover-text-decoration-underline transition-1 fw-semibold'
                             tabIndex={0}
                           >
@@ -789,7 +789,7 @@ const LessonDetails = () => {
                         </Link>
                         <div className='flex-between gap-8 mt-24'>
                           <Link
-                href='/lesson-details'
+                            href='/lesson-details'
                             className='flex-align gap-8 text-main-600 hover-text-decoration-underline transition-1 fw-semibold'
                             tabIndex={0}
                           >
@@ -816,7 +816,7 @@ const LessonDetails = () => {
                         </Link>
                         <div className='flex-between gap-8 mt-24'>
                           <Link
-                href='/lesson-details'
+                            href='/lesson-details'
                             className='flex-align gap-8 text-main-600 hover-text-decoration-underline transition-1 fw-semibold'
                             tabIndex={0}
                           >
@@ -843,7 +843,7 @@ const LessonDetails = () => {
                         </Link>
                         <div className='flex-between gap-8 mt-24'>
                           <Link
-                href='/lesson-details'
+                            href='/lesson-details'
                             className='flex-align gap-8 text-main-600 hover-text-decoration-underline transition-1 fw-semibold'
                             tabIndex={0}
                           >
@@ -890,7 +890,7 @@ const LessonDetails = () => {
                         </Link>
                         <div className='flex-between gap-8 mt-24'>
                           <Link
-                href='/lesson-details'
+                            href='/lesson-details'
                             className='flex-align gap-8 text-main-600 hover-text-decoration-underline transition-1 fw-semibold'
                             tabIndex={0}
                           >
@@ -917,7 +917,7 @@ const LessonDetails = () => {
                         </Link>
                         <div className='flex-between gap-8 mt-24'>
                           <Link
-                href='/lesson-details'
+                            href='/lesson-details'
                             className='flex-align gap-8 text-main-600 hover-text-decoration-underline transition-1 fw-semibold'
                             tabIndex={0}
                           >
@@ -944,7 +944,7 @@ const LessonDetails = () => {
                         </Link>
                         <div className='flex-between gap-8 mt-24'>
                           <Link
-                href='/lesson-details'
+                            href='/lesson-details'
                             className='flex-align gap-8 text-main-600 hover-text-decoration-underline transition-1 fw-semibold'
                             tabIndex={0}
                           >
@@ -971,7 +971,7 @@ const LessonDetails = () => {
                         </Link>
                         <div className='flex-between gap-8 mt-24'>
                           <Link
-                href='/lesson-details'
+                            href='/lesson-details'
                             className='flex-align gap-8 text-main-600 hover-text-decoration-underline transition-1 fw-semibold'
                             tabIndex={0}
                           >
@@ -1018,7 +1018,7 @@ const LessonDetails = () => {
                         </Link>
                         <div className='flex-between gap-8 mt-24'>
                           <Link
-                href='/lesson-details'
+                            href='/lesson-details'
                             className='flex-align gap-8 text-main-600 hover-text-decoration-underline transition-1 fw-semibold'
                             tabIndex={0}
                           >
@@ -1045,7 +1045,7 @@ const LessonDetails = () => {
                         </Link>
                         <div className='flex-between gap-8 mt-24'>
                           <Link
-                href='/lesson-details'
+                            href='/lesson-details'
                             className='flex-align gap-8 text-main-600 hover-text-decoration-underline transition-1 fw-semibold'
                             tabIndex={0}
                           >
@@ -1072,7 +1072,7 @@ const LessonDetails = () => {
                         </Link>
                         <div className='flex-between gap-8 mt-24'>
                           <Link
-                href='/lesson-details'
+                            href='/lesson-details'
                             className='flex-align gap-8 text-main-600 hover-text-decoration-underline transition-1 fw-semibold'
                             tabIndex={0}
                           >
@@ -1099,7 +1099,7 @@ const LessonDetails = () => {
                         </Link>
                         <div className='flex-between gap-8 mt-24'>
                           <Link
-                href='/lesson-details'
+                            href='/lesson-details'
                             className='flex-align gap-8 text-main-600 hover-text-decoration-underline transition-1 fw-semibold'
                             tabIndex={0}
                           >
@@ -1146,7 +1146,7 @@ const LessonDetails = () => {
                         </Link>
                         <div className='flex-between gap-8 mt-24'>
                           <Link
-                href='/lesson-details'
+                            href='/lesson-details'
                             className='flex-align gap-8 text-main-600 hover-text-decoration-underline transition-1 fw-semibold'
                             tabIndex={0}
                           >
@@ -1173,7 +1173,7 @@ const LessonDetails = () => {
                         </Link>
                         <div className='flex-between gap-8 mt-24'>
                           <Link
-                href='/lesson-details'
+                            href='/lesson-details'
                             className='flex-align gap-8 text-main-600 hover-text-decoration-underline transition-1 fw-semibold'
                             tabIndex={0}
                           >
@@ -1200,7 +1200,7 @@ const LessonDetails = () => {
                         </Link>
                         <div className='flex-between gap-8 mt-24'>
                           <Link
-                href='/lesson-details'
+                            href='/lesson-details'
                             className='flex-align gap-8 text-main-600 hover-text-decoration-underline transition-1 fw-semibold'
                             tabIndex={0}
                           >
@@ -1227,7 +1227,7 @@ const LessonDetails = () => {
                         </Link>
                         <div className='flex-between gap-8 mt-24'>
                           <Link
-                href='/lesson-details'
+                            href='/lesson-details'
                             className='flex-align gap-8 text-main-600 hover-text-decoration-underline transition-1 fw-semibold'
                             tabIndex={0}
                           >
@@ -1274,7 +1274,7 @@ const LessonDetails = () => {
                         </Link>
                         <div className='flex-between gap-8 mt-24'>
                           <Link
-                href='/lesson-details'
+                            href='/lesson-details'
                             className='flex-align gap-8 text-main-600 hover-text-decoration-underline transition-1 fw-semibold'
                             tabIndex={0}
                           >
@@ -1301,7 +1301,7 @@ const LessonDetails = () => {
                         </Link>
                         <div className='flex-between gap-8 mt-24'>
                           <Link
-                href='/lesson-details'
+                            href='/lesson-details'
                             className='flex-align gap-8 text-main-600 hover-text-decoration-underline transition-1 fw-semibold'
                             tabIndex={0}
                           >
@@ -1328,7 +1328,7 @@ const LessonDetails = () => {
                         </Link>
                         <div className='flex-between gap-8 mt-24'>
                           <Link
-                href='/lesson-details'
+                            href='/lesson-details'
                             className='flex-align gap-8 text-main-600 hover-text-decoration-underline transition-1 fw-semibold'
                             tabIndex={0}
                           >
@@ -1355,7 +1355,7 @@ const LessonDetails = () => {
                         </Link>
                         <div className='flex-between gap-8 mt-24'>
                           <Link
-                href='/lesson-details'
+                            href='/lesson-details'
                             className='flex-align gap-8 text-main-600 hover-text-decoration-underline transition-1 fw-semibold'
                             tabIndex={0}
                           >
@@ -1402,7 +1402,7 @@ const LessonDetails = () => {
                         </Link>
                         <div className='flex-between gap-8 mt-24'>
                           <Link
-                href='/lesson-details'
+                            href='/lesson-details'
                             className='flex-align gap-8 text-main-600 hover-text-decoration-underline transition-1 fw-semibold'
                             tabIndex={0}
                           >
@@ -1429,7 +1429,7 @@ const LessonDetails = () => {
                         </Link>
                         <div className='flex-between gap-8 mt-24'>
                           <Link
-                href='/lesson-details'
+                            href='/lesson-details'
                             className='flex-align gap-8 text-main-600 hover-text-decoration-underline transition-1 fw-semibold'
                             tabIndex={0}
                           >
@@ -1456,7 +1456,7 @@ const LessonDetails = () => {
                         </Link>
                         <div className='flex-between gap-8 mt-24'>
                           <Link
-                href='/lesson-details'
+                            href='/lesson-details'
                             className='flex-align gap-8 text-main-600 hover-text-decoration-underline transition-1 fw-semibold'
                             tabIndex={0}
                           >
@@ -1483,7 +1483,7 @@ const LessonDetails = () => {
                         </Link>
                         <div className='flex-between gap-8 mt-24'>
                           <Link
-                href='/lesson-details'
+                            href='/lesson-details'
                             className='flex-align gap-8 text-main-600 hover-text-decoration-underline transition-1 fw-semibold'
                             tabIndex={0}
                           >

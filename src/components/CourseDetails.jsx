@@ -9,7 +9,7 @@ const CourseDetails = () => {
             {/* Details Content Start */}
             <div className='course-details__content border border-neutral-30 rounded-12 bg-main-25 p-12'>
               <img
-                src='assets/images/thumbs/course-details-img.png'
+                src='https://i.ibb.co.com/CKPHs1bx/programming-language-illustration-24908-61529.jpg'
                 alt=''
                 className='rounded-8 cover-img'
               />
@@ -698,9 +698,10 @@ const CourseDetails = () => {
             <div className='border border-neutral-30 rounded-12 bg-main-25 p-32 mt-24'>
               <div className='d-flex align-items-start flex-wrap flex-md-nowrap gap-32'>
                 <img
-                  src='assets/images/thumbs/details-instructor.png'
+                  src='https://i.ibb.co.com/6cKNzXmB/young-asian-student-with-notebooks-standing-orange-sweatshirt-looking-camera-posing-blue-1258-168657.jpg'
                   alt=''
                   className=''
+                  width={150}
                 />
                 <div className=''>
                   <div className='flex-between gap-16'>
@@ -1003,7 +1004,7 @@ const CourseDetails = () => {
                 <span className='d-block border border-neutral-30 my-24 border-dashed' />
                 <div className='flex-align gap-24'>
                   <img
-                    src='assets/images/thumbs/reviewer-img1.png'
+                    src='https://i.ibb.co.com/zgdmr4B/positive-male-youngster-with-curly-hair-176532-8174.jpg'
                     alt=''
                     className='w-60 h-60 rounded-circle cover-img'
                   />
@@ -1035,7 +1036,7 @@ const CourseDetails = () => {
                 </div>
                 <div className='flex-align gap-20 mt-24'>
                   <img
-                    src='assets/images/thumbs/reviewer-img2.png'
+                    src='https://i.ibb.co.com/Y6BTF0H/young-beautiful-woman-pink-warm-sweater-natural-look-smiling-portrait-isolated-long-hair-285396-896.jpg'
                     alt=''
                     className='w-60 h-60 rounded-circle cover-img'
                   />
@@ -1074,7 +1075,7 @@ const CourseDetails = () => {
                 <span className='d-block border border-neutral-30 my-24 border-dashed' />
                 <div className='flex-align gap-24'>
                   <img
-                    src='assets/images/thumbs/reviewer-img2.png'
+                    src='https://i.ibb.co.com/v4JQ1GDn/portrait-charming-cheerful-guy-enjoying-free-time-staring-isolated-grey-color-wall-274222-19705.jpg'
                     alt=''
                     className='w-60 h-60 rounded-circle cover-img'
                   />
@@ -1133,7 +1134,7 @@ const CourseDetails = () => {
                 <span className='d-block border border-neutral-30 my-24 border-dashed' />
                 <div className='flex-align gap-24'>
                   <img
-                    src='assets/images/thumbs/reviewer-img3.png'
+                    src='https://i.ibb.co.com/ynKR3FHV/good-looking-caucasian-female-with-blonde-straight-hair-wearing-glasses-denim-shirt-smiles-happily-h.jpg'
                     alt=''
                     className='w-60 h-60 rounded-circle cover-img'
                   />
